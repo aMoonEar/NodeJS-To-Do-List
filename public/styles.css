@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background: rgb(247, 247, 247);
+    color: #333333;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+input[type=text], select {
+  width: 60%;
+  padding: 8px 12px;
+  margin-right: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
